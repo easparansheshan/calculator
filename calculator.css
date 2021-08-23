@@ -1,0 +1,74 @@
+.btn-success{
+    margin-right: 20px;
+    margin-bottom: 5px;
+     
+}
+
+table{
+    height: 0px;
+    min-height: 0px;
+}
+.btn-danger{
+    margin-right: 15px;
+}
+
+.btn-warning{
+    margin-right: 20px;
+}
+
+#answer{
+    color: red;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    left: 0;
+    bottom: 0;
+}
+
+#navbar1{
+    background-color: black;
+    color: white;
+}
+
+#cal, #home{
+    color: white;
+}
+#home:hover{
+    color : red;
+}
+
+#div{
+    margin-right: 21px;
+}
+
+#para1{
+    margin-top: 15px;
+    margin-left: 150px;
+}
+
+#submit{
+    margin-right: 15px;
+}
+ #para2, #para3{
+    display: none;
+    margin-left: 150px;
+}
+
+#para4{
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+    min-height: 202px;
+    text-align: center;
+    
+}
+#para5{
+    font-size: 20px;
+    text-decoration: underline;
+    text-align: center;
+}
